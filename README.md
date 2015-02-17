@@ -8,7 +8,7 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 Credits:
 ================
 * Power Crystals & Team COFH[For creating Nether Ores Mod]
-* Nuttyprot [for his wonderfull texture pack]
+* CeLittle3 [For His Texture Contributions]
 * DrakeBD [For Compiling & Editing the pack]
 
 Licensing:
